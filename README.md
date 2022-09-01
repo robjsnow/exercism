@@ -1,6 +1,6 @@
 # Robert's Exercism Solutions
 
-This is just a repository where I store my solutions to coding challenges from <a href="https://exercism.org/">Exercism.org</a> after solving them.<br/>
+This is  a repository where I store exercises and my solutions for them to coding challenges from <a href="https://exercism.org/">Exercism.org</a> after solving them.<br/>
 Feel free to learn from the examples.<br/>
 <br/>
 "Solve coding exercises and get mentored to gain true fluency in your chosen programming languages.<br/>
